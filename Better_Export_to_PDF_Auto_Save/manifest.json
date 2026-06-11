@@ -1,0 +1,9 @@
+{
+    "id": "better-export-pdf-auto-save",
+    "name": "Better Export PDF Auto Save",
+    "version": "0.1.0",
+    "minAppVersion": "0.15.0",
+    "description": "A fork of Better Export PDF that preserves the original feature set and adds auto-save export next to the source Markdown file.",
+    "author": "Myeongju Cha",
+    "isDesktopOnly": true
+}
